@@ -2,8 +2,6 @@ import { WordOmitter } from "./components/wordOmitter";
 
 import "./App.css";
 
-import "h8k-components";
-
 function App() {
   return (
     <>

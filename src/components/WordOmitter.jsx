@@ -33,7 +33,7 @@ function WordOmitter() {
         onChange={handleInputChange}
         data-testid="input-area"
       />
-      <div>
+      <div className="flex items-center gap-5">
         <button onClick={toggleOmitWords} data-testid="action-btn">
           {omitWords ? "Show All Words" : "Omit Words"}
         </button>

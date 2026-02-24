@@ -1,4 +1,4 @@
-import { WordOmitter } from "./components/wordOmitter";
+import { WordOmitter } from "./components/WordOmitter";
 
 import "./App.css";
 

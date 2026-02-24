@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div className="App">
-      <h1>Word Omitter</h1>
+      <h1 className="font-bold text-7xl">Word Omitter</h1>
         <WordOmitter />
       </div>
     </>
